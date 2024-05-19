@@ -1,0 +1,3 @@
+C:/Users/Iris/OneDrive/Desktop/faculta stuff/L5_ButCooler/cmake-build-debug/CMakeFiles/L5.dir
+C:/Users/Iris/OneDrive/Desktop/faculta stuff/L5_ButCooler/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Iris/OneDrive/Desktop/faculta stuff/L5_ButCooler/cmake-build-debug/CMakeFiles/rebuild_cache.dir
